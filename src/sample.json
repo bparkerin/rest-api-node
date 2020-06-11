@@ -1,0 +1,23 @@
+[
+    {
+        "Reproductor": "Nawyz",
+        "Microchip": "00001",
+        "Servicios": "semen",
+        "Precio": "$1,500",
+        "Prestaciones": "Primer envio gratis, Garantia de cria viva al nacer, Seguro Basico de Compra.",
+        "Propietario": "Cassandra Ganaderia",
+        "Vendedor": "Cassandra Ganaderia",
+        "id": 1
+      },
+      {
+        "Reproductor": "Tobias",
+        "Microchip": "00002",
+        "Servicios": "semen",
+        "Precio": "$1,500",
+        "Prestaciones": "Primer envio gratis, Garantia de cria viva al nacer, Seguro Basico de Compra.",
+        "Propietario": "Cassandra Ganaderia",
+        "Vendedor": "Cassandra Ganaderia",
+        "id": 2
+      }
+
+]
